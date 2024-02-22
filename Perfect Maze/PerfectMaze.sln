@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfectMaze", "PerfectMaze\PerfectMaze.csproj", "{6EF78BE1-D3DE-420D-B4CC-B89950506BE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EF78BE1-D3DE-420D-B4CC-B89950506BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF78BE1-D3DE-420D-B4CC-B89950506BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF78BE1-D3DE-420D-B4CC-B89950506BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF78BE1-D3DE-420D-B4CC-B89950506BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EB61DDE-5E43-4866-9A34-AEC1D9D9029B}
+	EndGlobalSection
+EndGlobal
