@@ -1,0 +1,15 @@
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\KDTree\KDTree\bin\Debug\net6.0\KDTree.exe
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\KDTree\KDTree\bin\Debug\net6.0\KDTree.deps.json
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\KDTree\KDTree\bin\Debug\net6.0\KDTree.runtimeconfig.json
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\KDTree\KDTree\bin\Debug\net6.0\KDTree.dll
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\KDTree\KDTree\bin\Debug\net6.0\KDTree.pdb
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\KDTree\KDTree\obj\Debug\net6.0\KDTree.csproj.AssemblyReference.cache
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\KDTree\KDTree\obj\Debug\net6.0\KDTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\KDTree\KDTree\obj\Debug\net6.0\KDTree.AssemblyInfoInputs.cache
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\KDTree\KDTree\obj\Debug\net6.0\KDTree.AssemblyInfo.cs
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\KDTree\KDTree\obj\Debug\net6.0\KDTree.csproj.CoreCompileInputs.cache
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\KDTree\KDTree\obj\Debug\net6.0\KDTree.dll
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\KDTree\KDTree\obj\Debug\net6.0\refint\KDTree.dll
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\KDTree\KDTree\obj\Debug\net6.0\KDTree.pdb
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\KDTree\KDTree\obj\Debug\net6.0\KDTree.genruntimeconfig.cache
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\KDTree\KDTree\obj\Debug\net6.0\ref\KDTree.dll

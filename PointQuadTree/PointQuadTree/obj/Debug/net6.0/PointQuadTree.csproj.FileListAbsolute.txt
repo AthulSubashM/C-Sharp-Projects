@@ -1,0 +1,15 @@
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\PointQuadTree\PointQuadTree\bin\Debug\net6.0\PointQuadTree.exe
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\PointQuadTree\PointQuadTree\bin\Debug\net6.0\PointQuadTree.deps.json
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\PointQuadTree\PointQuadTree\bin\Debug\net6.0\PointQuadTree.runtimeconfig.json
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\PointQuadTree\PointQuadTree\bin\Debug\net6.0\PointQuadTree.dll
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\PointQuadTree\PointQuadTree\bin\Debug\net6.0\PointQuadTree.pdb
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\PointQuadTree\PointQuadTree\obj\Debug\net6.0\PointQuadTree.csproj.AssemblyReference.cache
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\PointQuadTree\PointQuadTree\obj\Debug\net6.0\PointQuadTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\PointQuadTree\PointQuadTree\obj\Debug\net6.0\PointQuadTree.AssemblyInfoInputs.cache
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\PointQuadTree\PointQuadTree\obj\Debug\net6.0\PointQuadTree.AssemblyInfo.cs
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\PointQuadTree\PointQuadTree\obj\Debug\net6.0\PointQuadTree.csproj.CoreCompileInputs.cache
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\PointQuadTree\PointQuadTree\obj\Debug\net6.0\PointQuadTree.dll
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\PointQuadTree\PointQuadTree\obj\Debug\net6.0\refint\PointQuadTree.dll
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\PointQuadTree\PointQuadTree\obj\Debug\net6.0\PointQuadTree.pdb
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\PointQuadTree\PointQuadTree\obj\Debug\net6.0\PointQuadTree.genruntimeconfig.cache
+C:\Users\athul\Documents\University\Classes\COIS 3020\Assignments\Assignment3\PointQuadTree\PointQuadTree\obj\Debug\net6.0\ref\PointQuadTree.dll
